@@ -1,0 +1,12 @@
+.container {
+    max-width: 1200px;
+    min-width: 960px;
+    margin-top: 48px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.layout {
+    height: auto;
+    min-height: 100%;
+}
