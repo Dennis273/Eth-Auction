@@ -1,0 +1,28 @@
+.container {
+    max-width: 1200px;
+    min-width: 960px;
+    margin-top: 48px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.layout {
+    height: auto;
+    min-height: 100%;
+}
+
+.new-auction-button {
+    position: fixed;
+    bottom: 48px;
+    right: 48px;
+    transform: scale(2)
+}
+
+.address {
+    line-height: 64px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: white;
+    margin-right: 16px;
+}
